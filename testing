@@ -1,0 +1,9 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Test"; 
+    Text = "Lol ur cookie is now mine"; 
+    Icon = ""; 
+    Duration = 100;
+    Callback = bindableFunction;
+    Button1 = "bet";  
+    Button2 = "mwah";
+})
